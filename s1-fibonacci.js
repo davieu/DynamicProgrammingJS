@@ -15,6 +15,7 @@ console.log(fib(3)); //2
 console.log(fib(4)); //3
 */
 
+// will not run because of the exponential complexity. Will take too long
 // fib(50) //12586269025
 // fib(50)   =   2^50 steps  =   1.12e+15  so this is an enormous amount of steps
 //              12,586,269,025 steps
